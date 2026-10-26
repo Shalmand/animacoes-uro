@@ -1,0 +1,16 @@
+{
+  "name": "animacoes-uro",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Animações URO — explicativas 5:3 em estilo recorte (Remotion), com efeitos sonoros",
+  "scripts": {
+    "estudio": "remotion studio src/index.js",
+    "sfx": "python ferramentas/gerar_sfx.py"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.536",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.536"
+  }
+}

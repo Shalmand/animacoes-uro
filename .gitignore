@@ -1,0 +1,7 @@
+node_modules/
+out/
+previa/
+entrada/
+*.mp4
+*.mov
+__pycache__/
